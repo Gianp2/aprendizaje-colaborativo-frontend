@@ -1,0 +1,12 @@
+ 
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Archivos de compilación
+build/
+.env
+
+# Archivos de desarrollo
+.DS_Store
