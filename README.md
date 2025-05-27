@@ -23,9 +23,6 @@ cd aprendizaje-colaborativo-frontend
 Instala las dependencias:
 npm install
 
-O, si prefieres yarn:
-yarn install
-
 
 Si la app usa variables de entorno (como una URL de backend), crea un archivo .env y copia lo que haya en .env.example (si existe). Cambia lo que haga falta.
 
