@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+Aprendizaje Colaborativo Frontend
+¡Hola! Bienvenid@ al repositorio del frontend de Aprendizaje Colaborativo, una app pensada para que estudiantes, profes o cualquier grupo pueda aprender y trabajar en equipo de forma sencilla y divertida. Aquí puedes compartir ideas, recursos, apuntes o lo que necesites para colaborar con otros.
+¿Qué es esta app?
+Es una plataforma web donde puedes conectarte con otros para aprender juntos. Imagina un lugar donde puedes discutir temas, subir materiales, trabajar en proyectos en grupo o incluso resolver dudas en tiempo real. Todo con una interfaz fácil de usar y pensada para que el aprendizaje sea más dinámico.
+¿Qué necesitas para empezar?
+Antes de arrancar, asegúrate de tener:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Node.js (versión 16 o superior, descárgalo desde nodejs.org).
+npm o yarn (para manejar las dependencias).
+Git (para clonar este repo).
 
-## Available Scripts
+Cómo instalarla
+Es súper fácil, sigue estos pasos:
 
-In the project directory, you can run:
+Clona el repositorio:
+git clone https://github.com/Gianp2/aprendizaje-colaborativo-frontend.git
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Entra a la carpeta del proyecto:
+cd aprendizaje-colaborativo-frontend
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+Instala las dependencias:
+npm install
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+O, si prefieres yarn:
+yarn install
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Si la app usa variables de entorno (como una URL de backend), crea un archivo .env y copia lo que haya en .env.example (si existe). Cambia lo que haga falta.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Cómo usar la app
+Para probar la app en tu máquina:
+npm start
 
-### `npm run eject`
+O con yarn:
+yarn start
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Esto abre la app en tu navegador (normalmente en http://localhost:3000). ¡Échale un ojo y empieza a explorar!
+Si quieres una versión lista para producción:
+npm run build
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Los archivos estarán en una carpeta como build o dist.
+¿Quieres ayudar?
+¡Nos encantaría! Si quieres meter mano al código:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Haz un fork del repo.
+Crea una rama nueva:git checkout -b mi-nueva-idea
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+Haz tus cambios y súbelos:git commit -m "Agregué algo genial"
+git push origin mi-nueva-idea
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Abre un Pull Request en GitHub.
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Escribe código claro y, si puedes, agrega comentarios para que todos entendamos.
+Licencia
+Este proyecto usa la Licencia MIT, así que siéntete libre de usarlo y modificarlo como quieras.
+¿Dudas o ideas?
+Si algo no te queda claro o quieres sugerir algo, abre un issue en GitHub o mándame un mensaje.
