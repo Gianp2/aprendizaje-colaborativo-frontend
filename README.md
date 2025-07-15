@@ -1,4 +1,5 @@
-**Aprendizaje Colaborativo Frontend**
+**Aprendizaje Colaborativo Frontend** 
+---
 ¡Bienvenid@ al repositorio del frontend de Aprendizaje Colaborativo! 🚀Esta es una aplicación web diseñada para que estudiantes, profesores y equipos trabajen juntos de manera sencilla, dinámica y divertida. Comparte ideas, recursos, apuntes o colabora en proyectos en grupo, todo desde una interfaz intuitiva y amigable.
 
 **📖 ¿Qué es Aprendizaje Colaborativo?**
