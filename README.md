@@ -81,9 +81,11 @@ Asegúrate de que tus cambios no rompan la funcionalidad existente.
 Si tienes dudas, consulta las guías de contribución (si existen) o abre un issue.
 
 **📜 Licencia**
+---
 Este proyecto está bajo la Licencia MIT. Siéntete libre de usarlo, modificarlo y compartirlo según tus necesidades. Consulta el archivo LICENSE para más detalles.
 
 **❓ ¿Tienes dudas o ideas?**
+---
 Si algo no está claro, quieres reportar un error o tienes una idea para mejorar la app:
 
 Abre un issue en GitHub.
